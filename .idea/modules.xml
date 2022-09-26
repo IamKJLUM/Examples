@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComputerAssembly/ComputerAssembly.iml" filepath="$PROJECT_DIR$/ComputerAssembly/ComputerAssembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Examples.iml" filepath="$PROJECT_DIR$/.idea/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAndLists/Hospital/Hopital.iml" filepath="$PROJECT_DIR$/ArraysAndLists/Hospital/Hopital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysAndLists/EmailList/ToDoList.iml" filepath="$PROJECT_DIR$/ArraysAndLists/EmailList/ToDoList.iml" />
+    </modules>
+  </component>
+</project>
